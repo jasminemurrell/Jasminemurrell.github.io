@@ -10,11 +10,11 @@
   <style>
     body {
         background-color: blue;
-        color: black;
+        color: white;
     }
     h1 {
         font-family: 'Oswald', sans-serif;
-        color: blue;
+        color: white;
         font-size: 50px;
     }
     a {
