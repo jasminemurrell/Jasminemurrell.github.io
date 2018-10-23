@@ -1,4 +1,4 @@
-# Jasminemurrell.github.io
+
 
 <html>
 <head>
@@ -9,8 +9,8 @@
   <title>My first website</title>
   <style>
     body {
-        background-color: black;
-        color: white;
+        background-color: blue;
+        color: black;
     }
     h1 {
         font-family: 'Oswald', sans-serif;
