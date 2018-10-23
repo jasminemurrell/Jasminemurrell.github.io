@@ -9,7 +9,7 @@
   <title>My first website</title>
   <style>
     body {
-        background-color: blue;
+        background-color: black;
         color: white;
     }
     h1 {
