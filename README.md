@@ -3,8 +3,8 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <link href="https://fonts.googleapis.com/css? Abril Fatface" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Spirax" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css? family=Abril Fatface" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Abril Fatface" rel="stylesheet">
 
   <title>My first website</title>
   <style>
