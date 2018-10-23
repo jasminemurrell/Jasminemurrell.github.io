@@ -1,9 +1,9 @@
 # Jasminemurrell.github.io
-<!DOCTYPE html>
+
 <html>
 <head>
   <meta charset="utf-8">
-  <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css? Abril Fatface" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Spirax" rel="stylesheet">
 
   <title>My first website</title>
