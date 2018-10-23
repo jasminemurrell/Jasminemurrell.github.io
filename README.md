@@ -45,7 +45,7 @@
       <li><a href="page2.html">Here is a link to page two</a></li>
         </div>
         <div style="background-color:blue">
-      <li><a href="page3.html">Here is a link to page three</a></li>
+      <li><a href="page3.jpg">Here is a link to page three</a></li>
         </div>
       <li><a href="homework.html">Here is a link to Homework One</a>
       <li><a href="homeworkpart2.html">Here is a link to Homework One part 2</a>
