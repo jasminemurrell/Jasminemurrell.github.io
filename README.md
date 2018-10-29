@@ -30,7 +30,7 @@
 </head>
 
 <body>
-    <img src="3.jpg">
+    <img src="3.JPG">
     <div style="background-color:yellow">
     <h1>This is the main page.</h1>
     </div>
