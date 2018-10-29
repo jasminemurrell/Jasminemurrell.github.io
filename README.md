@@ -50,6 +50,6 @@
       <li><a href="homework.html">Here is a link to Homework One</a>
       <li><a href="homeworkpart2.html">Here is a link to Homework One part 2</a>
       <li><a href="photoshop.html">Here is a link to photoshop</a></li>
-      <br>
-</body>
-</html>
+   </body>
+  </html>
+
