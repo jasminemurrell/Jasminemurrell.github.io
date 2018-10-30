@@ -38,17 +38,17 @@
     <p>From this page you can access the other pages</p>
     </div>
     <ul>
-      <div style="background-color:brown">
-        <li><a href="page1.html">Here is a link to page one</a></li>
+      <div style="background-color:grey">
+        <li><a href="page1.html">Here is a link to your zine page</a></li>
         </div>
         <div style="background-color:white">
-      <li><a href="page2.html">Here is a link to page two</a></li>
+      <li><a href="page2.html">Here is a link to your description of your zine</a></li>
         </div>
         <div style="background-color:blue">
-      <li><a href="page3.jpg">Here is a link to page three</a></li>
+      <li><a href="page3.jpg">Here is a link to page your logo</a></li>
         </div>
-      <li><a href="homework.html">Here is a link to Homework One</a>
-      <li><a href="homeworkpart2.html">Here is a link to Homework One part 2</a>
-      <li><a href="photoshop.html">Here is a link to photoshop</a></li>
+      <li><a href="homework.html">Here is a link to Homework One photoshop alterego</a>
+      <li><a href="homeworkpart2.html">Here is a link to Homework video</a>
+      <li><a href="photoshop.html">Here is a link to afftereffects</a></li>
  
 
