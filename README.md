@@ -19,7 +19,7 @@
     }
     a {
         color: red;
-        font-family: 'Spirax', cursive;
+        font-family: 'Verdana',  sans-serif;
         font-size: 24px;
         text-decoration: none;
     }
