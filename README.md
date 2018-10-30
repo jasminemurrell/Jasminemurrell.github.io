@@ -38,7 +38,7 @@
     <p>From this page you can access the other pages</p>
     </div>
     <ul>
-      <div style="background-color:gray">
+      <div style="background-color:brown">
         <li><a href="page1.html">Here is a link to page one</a></li>
         </div>
         <div style="background-color:white">
