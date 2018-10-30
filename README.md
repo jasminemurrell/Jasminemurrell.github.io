@@ -31,7 +31,7 @@
 
 <body>
     <img src="3.JPG">
-    <div style="background-color:lightblue">
+    <div style="background-color:yellow">
     <h1>This is the main page.</h1>
     </div>
     <div style="background-color:green">
