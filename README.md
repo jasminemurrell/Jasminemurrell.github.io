@@ -47,8 +47,8 @@
         <div style="background-color:blue">
       <li><a href="page3.jpg">Here is a link to page your logo</a></li>
         </div>
-      <strong><a href="homework.html">Here is a link to Homework One photoshop alterego</a>
-      <strong><a href="homeworkpart2.html">Here is a link to Homework video</a>
-      <strong><a href="photoshop.html">Here is a link to after effects video</a></strong>
+      <li><a href="homework.html">Here is a link to Homework One photoshop alterego</a>
+      <li><a href="homeworkpart2.html">Here is a link to Homework video</a>
+      <li><a href="photoshop.html">Here is a link to after effects video</a></li>
  
 
