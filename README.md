@@ -49,6 +49,6 @@
         </div>
       <li><a href="homework.html">Here is a link to Homework One photoshop alterego</a>
       <li><a href="homeworkpart2.html">Here is a link to Homework video</a>
-      <li><a href="photoshop.html">Here is a link to afftereffects</a></li>
+      <li><a href="photoshop.html">Here is a link to aftereffects</a></li>
  
 
